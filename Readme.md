@@ -140,3 +140,9 @@ Role: @PreAuthorize(“hasRole(‘BOOK_ADMIN’)”)
  Bunu kafa karıştırıcı buluyorsak şu şekilde kapatabiliriz
  
 ![image](https://user-images.githubusercontent.com/74687192/124380973-b5681800-dcc8-11eb-979a-f31d60e83325.png)
+ 
+ 
+ 
+ # Output
+ ![Ekran Alıntısı](https://user-images.githubusercontent.com/74687192/124387911-00922300-dce9-11eb-8245-75f2a7d6e1dd.PNG)
+![MerhabaJwt](https://user-images.githubusercontent.com/74687192/124387912-012ab980-dce9-11eb-8cd1-e52f8f85c255.PNG)
